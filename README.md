@@ -1,5 +1,5 @@
 # maquetado-de-pagina
-## [Demostracion en vivo](https://luisrondon11.github.io/proyecto_odin_html_css/)
+## [Demostracion en vivo](https://luisrondon11.github.io/maquetado-de-pagina/)
 
 Este el el modelo de un dashboard completo
 Fue realizado como parte del curso [The Odin Proyect](https://www.theodinproject.com/)
